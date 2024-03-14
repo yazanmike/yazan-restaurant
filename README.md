@@ -1,2 +1,2 @@
 # yazan restaurant
- yazn rest
+ yazn restaurant
